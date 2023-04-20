@@ -12,3 +12,15 @@ This is a extra challenge for my comp sci class
 3. runs the "up" as in exce() (exce("s." + "up" + "()")), goes to first cords, runs the "down" the same way as "up"
 4. repeats that for the second turtle
 5. Takes a phone number (checks if it's a number) and writes that to a new txt file along with the info in step 1
+
+## Changing the txt file
+If you want to change the txt file manually, follow these steps
+1. make sure the file is linked properly (name your txt file cords.txt or change the code)
+2. Comment out / Delete lines 5 - 9
+3. v Make sure that the file is formatted like this v
+### txt file
+up
+(start x) (start y)
+down
+(end x) (end y)
+This way make sure that your code runs properly
