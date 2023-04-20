@@ -17,10 +17,4 @@ This is a extra challenge for my comp sci class
 If you want to change the txt file manually, follow these steps
 1. make sure the file is linked properly (name your txt file cords.txt or change the code)
 2. Comment out / Delete lines 5 - 9
-3. v Make sure that the file is formatted like this v
-### txt file
-up
-(start x) (start y)
-down
-(end x) (end y)
-This way make sure that your code runs properly
+3. v Make sure that the file is formatted properly (check desc of update for formatting)
